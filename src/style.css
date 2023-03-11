@@ -160,22 +160,21 @@ body {
   font-family: "Montserrat", sans-serif;
   width: 900px;
 }
-@media (max-width: 768px) {
-  .cards-model {
-    grid-template-columns: repeat(3, 1fr);
-  }
-  .buttons-model {
-    flex-wrap: wrap;
-    gap: 10px;
-  }
+.myChart {
+  font-family: "Montserrat", sans-serif;
+  font-size: 10px;
+  color: #f5f5f5;
+  text-align: right;
+  max-width: 600px;
+  max-height: 600px;
+  margin-left: 400px;
 }
+h1 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 40px;
+  color: #f5f5f5;
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 50px;
 
-@media (max-width: 600px) {
-  .cards-model {
-    grid-template-columns: repeat(1, 1fr);
-  }
-  .buttons-model {
-    flex-wrap: wrap;
-    gap: 10px;
-  }
 }
