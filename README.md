@@ -37,69 +37,81 @@ Cuando quieran buscar alguna película o curiosidad sobre el Studio Ghibli.
 HU1: Yo como usuaria de Data Lovers quiero que se muestre las películas del Studio Ghibli para ver que películas tienen.
 
 Criterios de aceptación:
--Al abrir la página que me muestre las imágenes de las peliculas y el nombre de cada película.
+
+- Al abrir la página que me muestre las imágenes de las peliculas y el nombre de cada película.
 
 Criterios de Terminado:
--Realizar prototipo de baja fidelidad.
--Estructura visual adecuada (header, main, footer).
--Renderizar peliculas y sus nombres.
+
+- Realizar prototipo de baja fidelidad.
+- Estructura visual adecuada (header, main, footer).
+- Renderizar peliculas y sus nombres.
 
 HU2: Yo como usuaria quiero que me permita ver los directores para saber quién dirigió la película.
 
 Criterios de aceptación:
--Que me permite verificar quien dirigió la película.
--Mostrar los nombres de los directores.
+
+- Que me permite verificar quien dirigió la película.
+- Mostrar los nombres de los directores.
 
 Criterios de Terminado:
--Crear un botón que me permita filtrar por director.
--Importar la información de la data.
--Renderizar la información.
--Hacer las pruebas unitarias.
+
+- Crear un botón que me permita filtrar por director.
+- Importar la información de la data.
+- Renderizar la información.
+- Hacer las pruebas unitarias.
 
 HU3: Yo como usuaria quiero que se muestre las peliculas en orden alfabético para elegir una película de acuerdo a eso.
 
 Criterios de aceptación:
--Que pueda elegir alfabéticamente las peliculas.
--Que muestre las peliculas de acuerdo a lo que solicite.
+
+- Que pueda elegir alfabéticamente las peliculas.
+- Que muestre las peliculas de acuerdo a lo que solicite.
 
 Criterios de Terminado:
--Crear un botón que me permita ordenar por alfabéticamente peliculas.
--Importar la información de la data.
--Renderizar la información.
--Hacer las pruebas unitarias.
+
+- Crear un botón que me permita ordenar por alfabéticamente peliculas.
+- Importar la información de la data.
+- Renderizar la información.
+- Hacer las pruebas unitarias.
 
 HU4: Yo como usuaria quiero poder buscar la película por el nombre para facilitar mi búsqueda.
 
 Criterios de aceptación:
--Que me permita buscar la película por el nombre.
--Que me muestre las peliculas que contengan la misma letra o palabra en su título.
+
+- Que me permita buscar la película por el nombre.
+- Que me muestre las peliculas que contengan la misma letra o palabra en su título.
 
 Criterios de Terminado:
--Crear un Input que me permita almacenar textos o palabras.
--Realizar búsqueda en base al texto o palabras.
--Renderizar las peliculas que contentan los textos o palabras en el título.
--Realizar prueba unitaria.
+
+- Crear un Input que me permita almacenar textos o palabras.
+- Realizar búsqueda en base al texto o palabras.
+- Renderizar las peliculas que contentan los textos o palabras en el título.
+- Realizar prueba unitaria.
 
 HU5: Yo como usuaria quiero que me permita limpiar mis filtros, búsquedas y ordenados para luego poder empezar.
 
 Criterios de aceptación:
--Que me permita borrar los cambios de la página.
--Que se pueda regresar al estado original de la página.
+
+- Que me permita borrar los cambios de la página.
+- Que se pueda regresar al estado original de la página.
 
 Criterios de Terminado:
--Implementar un botón para restaurar la página.
--Dar funcionabilidad al botón.
+
+- Implementar un botón para restaurar la página.
+- Dar funcionabilidad al botón.
 
 HU6: Yo como usuaria me gustaría saber más detalles del Studio Ghibli para conocer más.
 
 Criterios de aceptación:
--Quiero conocer cuantas especies de cada personaje hay.
+
+- Quiero conocer cuantas especies de cada personaje hay.
 
 Criterios de Terminado:
--Importar información de los personajes por cada especie.
--Renderizar la información importada en un gráfico estadístico.
--Realizar prueba unitaria.
--Dar estilos al gráfico.
+
+- Importar información de los personajes por cada especie.
+- Renderizar la información importada en un gráfico estadístico.
+- Realizar prueba unitaria.
+- Dar estilos al gráfico.
 
 ## 4. Prototipado
 
