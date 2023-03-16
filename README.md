@@ -38,9 +38,8 @@ Quieren una página web accesible donde puedan ver las películas y se les permi
 
 Cuando quieran buscar alguna película o curiosidad sobre el Studio Ghibli.
 
-HU1: Yo como usuaria de Data Lovers quiero que se muestre las películas del Studio Ghibli para ver que películas tienen.
 
-Criterios de aceptación:
+HU1: Yo como usuaria de Data Lovers quiero que se muestre las películas del Studio Ghibli para ver que películas tienen.
 
 - Al abrir la página que me muestre las imágenes de las peliculas y el nombre de cada película.
 
